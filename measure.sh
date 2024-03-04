@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Example of usage: bash benchmark_stats.sh no-optimization 1 query1.sql
+# Example of usage: bash measure.sh no-optimization 1 query1.sql
 
 fout=$1
 q=$2
