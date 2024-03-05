@@ -4,12 +4,13 @@ SELECT
   DATE_PART('quarter', o_orderdate) AS quarterOrder,
   DATE_PART('month', o_orderdate) AS monthOrder,
   c_name AS custName,
-  SUM(l_extendedprice * (1 - l_discount)) AS revenue
+  SUM(revenue) AS total_revenue
 FROM
   lineitem_orders_customer
 WHERE
   l_returnflag = 'R'
   AND c_name ='Customer#000002000'
+  AND DATE_PART('quarter', o_orderdate)='3'
 GROUP BY
   GROUPING SETS (
     (yearOrder, quarterOrder, monthOrder, custName),

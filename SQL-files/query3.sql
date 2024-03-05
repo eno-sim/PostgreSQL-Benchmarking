@@ -13,6 +13,7 @@ JOIN
 WHERE
   L.l_returnflag = 'R'
   AND CU.c_name ='Customer#000002000'
+  AND DATE_PART('quarter', O.o_orderdate)='1'
 GROUP BY
   GROUPING SETS (
     (DATE_PART('year', O.o_orderdate), quarterOrder, monthOrder, custName),

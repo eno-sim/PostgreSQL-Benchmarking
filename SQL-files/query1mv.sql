@@ -3,7 +3,7 @@ SELECT
 	c_regionname AS import_region,
 	s_nationname AS export_nation,
     c_nationname AS import_nation,
-    SUM(l_extendedprice * (1 - l_discount)) AS revenue,
+    SUM(revenue) AS total_revenue,
     DATE_PART('month', o_orderdate) AS order_month,
     DATE_PART('quarter', o_orderdate) AS order_quarter,
     DATE_PART('year', o_orderdate) AS order_year,
