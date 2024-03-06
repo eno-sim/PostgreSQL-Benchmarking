@@ -1,0 +1,182 @@
+Query n. 1 with the options: MV2
+
+iteration number 1:
+
+real	0m1.631s
+user	0m0.064s
+sys	0m0.018s
+
+iteration number 2:
+
+real	0m1.607s
+user	0m0.060s
+sys	0m0.015s
+
+iteration number 3:
+
+real	0m1.626s
+user	0m0.071s
+sys	0m0.004s
+
+iteration number 4:
+
+real	0m1.615s
+user	0m0.065s
+sys	0m0.011s
+
+iteration number 5:
+
+real	0m1.679s
+user	0m0.070s
+sys	0m0.004s
+
+iteration number 6:
+
+real	0m1.628s
+user	0m0.076s
+sys	0m0.000s
+
+iteration number 7:
+
+real	0m1.622s
+user	0m0.075s
+sys	0m0.000s
+
+iteration number 8:
+
+real	0m1.625s
+user	0m0.063s
+sys	0m0.011s
+
+iteration number 9:
+
+real	0m1.611s
+user	0m0.076s
+sys	0m0.000s
+
+iteration number 10:
+
+real	0m1.623s
+user	0m0.063s
+sys	0m0.013s
+
+iteration number 11:
+
+real	0m1.622s
+user	0m0.075s
+sys	0m0.000s
+
+iteration number 12:
+
+real	0m1.617s
+user	0m0.067s
+sys	0m0.007s
+
+iteration number 13:
+
+real	0m1.722s
+user	0m0.068s
+sys	0m0.012s
+
+iteration number 14:
+
+real	0m1.664s
+user	0m0.069s
+sys	0m0.008s
+
+iteration number 15:
+
+real	0m1.669s
+user	0m0.058s
+sys	0m0.017s
+
+iteration number 16:
+
+real	0m1.743s
+user	0m0.071s
+sys	0m0.004s
+
+iteration number 17:
+
+real	0m1.640s
+user	0m0.057s
+sys	0m0.019s
+
+iteration number 18:
+
+real	0m1.629s
+user	0m0.059s
+sys	0m0.016s
+
+iteration number 19:
+
+real	0m1.630s
+user	0m0.072s
+sys	0m0.005s
+
+iteration number 20:
+
+real	0m1.668s
+user	0m0.061s
+sys	0m0.015s
+
+iteration number 21:
+
+real	0m1.662s
+user	0m0.076s
+sys	0m0.000s
+
+iteration number 22:
+
+real	0m1.682s
+user	0m0.071s
+sys	0m0.004s
+
+iteration number 23:
+
+real	0m1.630s
+user	0m0.072s
+sys	0m0.004s
+
+iteration number 24:
+
+real	0m1.616s
+user	0m0.065s
+sys	0m0.009s
+
+iteration number 25:
+
+real	0m1.618s
+user	0m0.070s
+sys	0m0.004s
+
+iteration number 26:
+
+real	0m1.673s
+user	0m0.072s
+sys	0m0.004s
+
+iteration number 27:
+
+real	0m1.628s
+user	0m0.064s
+sys	0m0.012s
+
+iteration number 28:
+
+real	0m1.646s
+user	0m0.064s
+sys	0m0.012s
+
+iteration number 29:
+
+real	0m1.621s
+user	0m0.069s
+sys	0m0.008s
+
+iteration number 30:
+
+real	0m1.622s
+user	0m0.064s
+sys	0m0.008s
+

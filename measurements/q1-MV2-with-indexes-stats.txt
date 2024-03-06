@@ -1,2 +1,2 @@
-Mean Execution Time: 1.635767 seconds
-Standard Deviation of Execution Time: 0.020473 seconds
+Mean Execution Time: 1.942167 seconds
+Standard Deviation of Execution Time: 0.007202 seconds

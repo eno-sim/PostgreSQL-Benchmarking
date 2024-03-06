@@ -2,181 +2,181 @@ Query n. 1 with the options: MV2-with-indexes
 
 iteration number 1:
 
-real	0m1.632s
-user	0m0.076s
-sys	0m0.009s
+real	0m1.945s
+user	0m0.077s
+sys	0m0.004s
 
 iteration number 2:
 
-real	0m1.626s
-user	0m0.063s
-sys	0m0.009s
+real	0m1.936s
+user	0m0.070s
+sys	0m0.004s
 
 iteration number 3:
 
-real	0m1.658s
-user	0m0.066s
-sys	0m0.009s
+real	0m1.946s
+user	0m0.063s
+sys	0m0.012s
 
 iteration number 4:
 
-real	0m1.614s
-user	0m0.064s
-sys	0m0.013s
+real	0m1.960s
+user	0m0.065s
+sys	0m0.009s
 
 iteration number 5:
 
-real	0m1.627s
-user	0m0.074s
-sys	0m0.000s
+real	0m1.948s
+user	0m0.070s
+sys	0m0.005s
 
 iteration number 6:
 
-real	0m1.622s
-user	0m0.074s
-sys	0m0.000s
+real	0m1.939s
+user	0m0.063s
+sys	0m0.012s
 
 iteration number 7:
 
-real	0m1.629s
+real	0m1.939s
 user	0m0.064s
-sys	0m0.010s
+sys	0m0.011s
 
 iteration number 8:
 
-real	0m1.654s
-user	0m0.069s
-sys	0m0.009s
+real	0m1.959s
+user	0m0.074s
+sys	0m0.000s
 
 iteration number 9:
 
-real	0m1.632s
-user	0m0.068s
-sys	0m0.004s
+real	0m1.936s
+user	0m0.053s
+sys	0m0.021s
 
 iteration number 10:
 
-real	0m1.629s
+real	0m1.933s
 user	0m0.070s
 sys	0m0.005s
 
 iteration number 11:
 
-real	0m1.627s
-user	0m0.065s
-sys	0m0.008s
+real	0m1.943s
+user	0m0.074s
+sys	0m0.000s
 
 iteration number 12:
 
-real	0m1.631s
-user	0m0.067s
-sys	0m0.008s
-
-iteration number 13:
-
-real	0m1.638s
+real	0m1.934s
 user	0m0.065s
 sys	0m0.009s
 
+iteration number 13:
+
+real	0m1.939s
+user	0m0.066s
+sys	0m0.008s
+
 iteration number 14:
 
-real	0m1.627s
-user	0m0.062s
-sys	0m0.012s
+real	0m1.944s
+user	0m0.069s
+sys	0m0.005s
 
 iteration number 15:
 
-real	0m1.629s
-user	0m0.075s
+real	0m1.956s
+user	0m0.073s
 sys	0m0.000s
 
 iteration number 16:
 
-real	0m1.616s
-user	0m0.057s
-sys	0m0.019s
+real	0m1.932s
+user	0m0.062s
+sys	0m0.008s
 
 iteration number 17:
 
-real	0m1.645s
+real	0m1.936s
 user	0m0.062s
-sys	0m0.012s
+sys	0m0.013s
 
 iteration number 18:
 
-real	0m1.619s
-user	0m0.063s
+real	0m1.939s
+user	0m0.062s
 sys	0m0.012s
 
 iteration number 19:
 
-real	0m1.651s
-user	0m0.066s
-sys	0m0.008s
+real	0m1.937s
+user	0m0.070s
+sys	0m0.005s
 
 iteration number 20:
 
-real	0m1.625s
-user	0m0.071s
-sys	0m0.004s
-
-iteration number 21:
-
-real	0m1.630s
-user	0m0.057s
-sys	0m0.020s
-
-iteration number 22:
-
-real	0m1.660s
-user	0m0.067s
-sys	0m0.008s
-
-iteration number 23:
-
-real	0m1.622s
-user	0m0.065s
-sys	0m0.011s
-
-iteration number 24:
-
-real	0m1.627s
-user	0m0.067s
-sys	0m0.008s
-
-iteration number 25:
-
-real	0m1.636s
-user	0m0.062s
-sys	0m0.013s
-
-iteration number 26:
-
-real	0m1.638s
-user	0m0.066s
-sys	0m0.012s
-
-iteration number 27:
-
-real	0m1.635s
+real	0m1.940s
 user	0m0.072s
 sys	0m0.005s
 
+iteration number 21:
+
+real	0m1.952s
+user	0m0.068s
+sys	0m0.009s
+
+iteration number 22:
+
+real	0m1.945s
+user	0m0.069s
+sys	0m0.005s
+
+iteration number 23:
+
+real	0m1.942s
+user	0m0.062s
+sys	0m0.013s
+
+iteration number 24:
+
+real	0m1.944s
+user	0m0.063s
+sys	0m0.012s
+
+iteration number 25:
+
+real	0m1.937s
+user	0m0.073s
+sys	0m0.004s
+
+iteration number 26:
+
+real	0m1.940s
+user	0m0.067s
+sys	0m0.008s
+
+iteration number 27:
+
+real	0m1.938s
+user	0m0.074s
+sys	0m0.000s
+
 iteration number 28:
 
-real	0m1.634s
-user	0m0.067s
+real	0m1.939s
+user	0m0.063s
 sys	0m0.008s
 
 iteration number 29:
 
-real	0m1.634s
-user	0m0.066s
-sys	0m0.011s
+real	0m1.948s
+user	0m0.058s
+sys	0m0.016s
 
 iteration number 30:
 
-real	0m1.726s
-user	0m0.097s
+real	0m1.939s
+user	0m0.070s
 sys	0m0.004s
 
