@@ -1,8 +1,9 @@
+--runna in 22 secondi e output di 20,610 righe
 SELECT
-    COALESCE(ExpNat.n_name, 'Total') AS export_nation,
     COALESCE(ExpReg.r_name, 'Total') AS export_region,
+	COALESCE(ImpReg.r_name, 'Total') AS import_region,
+	COALESCE(ExpNat.n_name, 'Total') AS export_nation,
     COALESCE(ImpNat.n_name, 'Total') AS import_nation,
-    COALESCE(ImpReg.r_name, 'Total') AS import_region,
     SUM(L.l_extendedprice * (1 - L.l_discount)) AS revenue,
     DATE_PART('month', O.o_orderdate) AS order_month,
     DATE_PART('quarter', O.o_orderdate) AS order_quarter,
@@ -20,6 +21,7 @@ FROM
     JOIN REGION AS ImpReg ON ImpReg.r_regionkey = ImpNat.n_regionkey
 WHERE
     ExpNat.n_name = 'FRANCE'
+	AND ImpNat.n_name != ExpNat.n_name
     AND P.p_type = 'SMALL POLISHED TIN'
 GROUP BY
     ROLLUP(P.p_type),
